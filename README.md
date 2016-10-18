@@ -1,5 +1,5 @@
 # UIScrollView-PageStatus
-对DZNEmptyDataSet的一个封装
+对[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)的一个封装，项目中页面统一管理.
 ```
 /**
  *  当前页面状态
